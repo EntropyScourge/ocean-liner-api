@@ -1,3 +1,6 @@
-fastapi
+fastapi[all]
+uvicorn
 pydantic
-SQLAlchemy
+psycopg
+pytest-testdox
+python-dotenv
